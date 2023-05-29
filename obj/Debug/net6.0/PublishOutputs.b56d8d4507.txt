@@ -1,0 +1,14 @@
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\TelegramBot.exe
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\appsettings.Development.json
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\appsettings.json
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\TelegramBot.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\TelegramBot.deps.json
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\TelegramBot.runtimeconfig.json
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\TelegramBot.pdb
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\JikanDotNet.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\Newtonsoft.Json.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\RestSharp.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\System.Text.Encodings.Web.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\System.Text.Json.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\Telegram.Bot.dll
+C:\Users\dima\AppData\Local\Temp\rider-publish12301805792450809038\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
