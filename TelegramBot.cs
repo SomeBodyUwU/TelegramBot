@@ -21,7 +21,7 @@ namespace MyAPI;
 
 public class TelegramBot
 {
-    TelegramBotClient botClient = new TelegramBotClient("6054649692:AAEWWvcVYDwKNrx7UVRJHn9fdJ_pF8pv4Wg");
+    TelegramBotClient botClient = new TelegramBotClient("//bot token");
     CancellationTokenSource cancellationToken = new CancellationTokenSource();
     ReceiverOptions receiverOptions = new ReceiverOptions { AllowedUpdates = { } };
     TelegramCommands TelegramCommands = new TelegramCommands();
